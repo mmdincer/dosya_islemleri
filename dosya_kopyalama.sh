@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Kullanıcıdan kaynak dosya yolunu alın
 echo "Lütfen kaynak dosyanın yolunu girin: "
 read kaynak
